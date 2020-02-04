@@ -5,3 +5,14 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
+REQ-ID: 1
+Description: Create appointment 
+Type: Functional
+Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.
+Originator: Carol
+
+REQ-ID: 2
+Description: Amend existing appointment
+Type: Functional
+Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
+Originator: Carol
