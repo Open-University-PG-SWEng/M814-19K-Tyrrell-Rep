@@ -16,3 +16,22 @@ Description: Amend existing appointment
 Type: Functional
 Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
 Originator: Carol
+
+REQ-ID: 3
+Description: The system shall allow a physical monetary transaction to be recorded.
+Type: Functional
+Rationale: For an inexpensive transaction such as a prescription refill, 
+it is quite possible that a patient may choose to pay with money in hand. 
+This scenario needs to be provided for.
+Originator: Lily, one of the receptionists on duty.
+
+REQ-ID: 4
+Description: A doctor must have a means to book an appointment on the system independently from patients.
+Type: Functional
+Rationale: A patient may fail to record or simply forget a follow-up appointment or prescription refill. 
+Permitting doctors to make a note of these within the system will allow for reminders – 
+electronic, written or verbal – to be sent to the patient.
+Originator: Brian, a podiatrist who works at both clinics.
+
+Comments: [jg8946-John Gribble] Adding two pontential functional requirements that occurred to me while 
+reviewing my answer to 3c.
