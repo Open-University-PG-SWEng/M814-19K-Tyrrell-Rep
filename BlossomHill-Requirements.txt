@@ -17,6 +17,8 @@ Type: Functional
 Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
 Originator: Carol
 
+Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
+
 REQ-ID: 3
 Description: The system shall allow a physical monetary transaction to be recorded.
 Type: Functional
