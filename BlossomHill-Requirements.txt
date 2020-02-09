@@ -37,3 +37,17 @@ Originator: Brian, a podiatrist who works at both clinics.
 
 Comments: [jg8946-John Gribble] Adding two pontential functional requirements that occurred to me while 
 reviewing my answer to 3c.
+
+REQ-ID: 5
+Description: The product shall determine whether a patient must pay for their own treatment or whether they have a health insurance provider who will pay for it.
+Type: Functional business requirement
+Rationale: To be able to determine whether the clinic must ask the patient to make the payment themselves immediately after their appointment to cover the cost, or whether an invoice must instead be generated to be sent to the patient’s health insurance provider.
+Originator: Carol (office manager).
+Comments: [samjb1-Sam Braithwaite] First requirement in response to question 4b
+
+REQ-ID: 6
+Description: The product shall show the available times and dates for appointments at around the length of time in the future that the therapist has specified the patient’s next appointment should be.
+Type: Functional business requirement
+Rationale: To be able to find available times and dates for the patient’s next appointment and confirm with the patient at which of these times and dates they would their next appointment to be scheduled.
+Originator: Lily (a receptionist on duty).
+Comments: [samjb1-Sam Braithwaite] Second requirement in response to question 4b
