@@ -51,3 +51,17 @@ Type: Functional business requirement
 Rationale: To be able to find available times and dates for the patient’s next appointment and confirm with the patient at which of these times and dates they would their next appointment to be scheduled.
 Originator: Lily (a receptionist on duty).
 Comments: [samjb1-Sam Braithwaite] Second requirement in response to question 4b
+
+REQ-ID: 7
+Description: Interface to accounts system to generate invoice for patient treatment
+Type: functional requirement
+Rationale: invoices are generated from the existing accounts system and passing information between systems would reduce time taken to input information and reduce the likelihood of potential errors.
+Originator: Neil
+Comments: [dash78-Duane Howden] First potential requirement in response to Q4
+
+REQ-ID: 8
+Description: generate appointment confirmation letter
+Type: functional requirement
+Rationale: if an appointment is not booked in person then a confirmation letter is sent to the patient to confirm the appointment booking. 
+Originator: Carol
+Comments: [dash78-Duane Howden] Second potential requirement in response to Q4
