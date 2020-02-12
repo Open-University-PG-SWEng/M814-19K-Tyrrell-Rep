@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -65,3 +65,16 @@ Type: functional requirement
 Rationale: if an appointment is not booked in person then a confirmation letter is sent to the patient to confirm the appointment booking. 
 Originator: Carol
 Comments: [dash78-Duane Howden] Second potential requirement in response to Q4
+
+REQ-ID: 9
+Description: Accept Payment
+Type: Functional
+Rationale: To ensure that Patients who pay for their own treatment can do so at the point of sale after receiving treatment.
+Originator: Neil
+
+REQ-ID: 10
+Description: Produce Invoice
+Type: Functional
+Rationale: To ensure that invoices are sent to the patient’s insurance company so that payment is received on the patient’s behalf.
+Originator: Neil
+
