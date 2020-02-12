@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -86,3 +86,16 @@ Rationale: To provide relevant options when scheduling new appointments.
 Originator: Carol
 Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
 
+REQ-ID: 12
+Description: issue patient with an appointments card 
+Type: Functional requirement
+Rationale: Usually, people make the next appointment after they’ve had an initial assessment while they’re still in the clinic, and the clinic issue them with an appointments card there and then.
+Originator: Carol
+Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added first potential functional requirement in repsonse to Q4.
+
+REQ-ID: 13
+Description: the list of people expected for a session output from the system before the start of the session.
+Type: Functional requirement
+Rationale: That would save time finding the records before treatment can start.
+Originator: Carol
+Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added second potential functional requirement in repsonse to Q4.
