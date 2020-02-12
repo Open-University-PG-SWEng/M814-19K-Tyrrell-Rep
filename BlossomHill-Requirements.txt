@@ -72,3 +72,17 @@ Type: Functional
 Rationale: To ensure that Patients who pay for their own treatment can do so at the point of sale after receiving treatment.
 Originator: Neil
 
+REQ-ID: 10
+Description: Keep track of all currently booked appointments.
+Type: Functional requirement
+Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have appointments and for receptionists to see availability etc.
+Originator: Carol
+Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
+
+REQ-ID: 11
+Description: Present available appointments over a given period of time in the future, for a specific therapist.
+Type: Functional requirement
+Rationale: To provide relevant options when scheduling new appointments.
+Originator: Carol
+Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
+
