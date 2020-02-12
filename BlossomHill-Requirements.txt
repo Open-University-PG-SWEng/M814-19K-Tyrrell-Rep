@@ -93,3 +93,17 @@ Type: Functional requirement
 Rationale: That would save time finding the records before treatment can start.
 Originator: Carol
 Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added second potential functional requirement in repsonse to Q4.
+
+REQ-ID: 15
+Description: Bookable dates and times can be entered into the system
+Type: Functional requirement
+Rationale: For easier scheduling, available timeslots can be predefined with defaults and exceptions for bookable resources.
+Originator: Carol
+Comments: [RobertB-Robert Blaas] Added requirement.
+
+REQ-ID: 16
+Description: Keep track of communication
+Type: Functional requirement
+Rationale: Patients are communicated with ahead of appointments for confirmation. The style of communication should be trackable and if patients were reached or a message left.
+Originator: Carol
+Comments: [RobertB-Robert Blaas] Added requirement.
