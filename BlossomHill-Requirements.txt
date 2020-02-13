@@ -107,3 +107,17 @@ Type: Functional requirement
 Rationale: Patients are communicated with ahead of appointments for confirmation. The style of communication should be trackable and if patients were reached or a message left.
 Originator: Carol
 Comments: [RobertB-Robert Blaas] Added requirement.
+
+REQ-ID: 17
+Description: Allow a therapist to add a note into the system
+Type: Functional Requirement
+Rationale: To replace the hand written notes that the therapist gives to the patient at the end of a session.
+Originator: Carol
+Comments: [Edgar Odinah] Addition of requirement #17.
+
+REQ-ID: 18
+Description: Pass patient details to the treatment records system
+Type: Functional Requirement
+Rationale: To save time finding a patient's records before treatment can start.
+Originator: Carol
+Comments: [Edgar Odinah] Addition of requirement #18.
