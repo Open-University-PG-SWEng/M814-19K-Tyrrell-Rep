@@ -121,3 +121,9 @@ Type: Functional Requirement
 Rationale: To save time finding a patient's records before treatment can start.
 Originator: Carol
 Comments: [Edgar Odinah] Addition of requirement #18.
+
+REQ-ID: 19
+Description: Delete existing appointment
+Type: Functional requirement
+Rationale: The patient realises that the appointment conflicts with their schedule but does not know yet their availability
+Originator: Carol
