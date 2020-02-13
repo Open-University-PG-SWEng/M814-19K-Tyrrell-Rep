@@ -127,3 +127,4 @@ Description: Delete existing appointment
 Type: Functional requirement
 Rationale: The patient realises that the appointment conflicts with their schedule but does not know yet their availability
 Originator: Carol
+Comments: [Regan Greeff] Added first potential functional requirement in repsonse to Q4
