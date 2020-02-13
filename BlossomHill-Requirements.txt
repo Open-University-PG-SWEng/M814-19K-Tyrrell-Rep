@@ -76,7 +76,7 @@ Comments: [lucasw21-Lucas Walker] Added first potential functional requirement i
 REQ-ID: 12
 Description: Present available appointments over a given period of time in the future, for a specific therapist.
 Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
+Rationale: To provide a therapist with relevant options when scheduling new appointments 
 Originator: Carol
 Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
 
