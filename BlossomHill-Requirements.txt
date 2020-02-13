@@ -73,13 +73,6 @@ Rationale: To eliminate the paper-based tracking of appointments. For therapists
 Originator: Carol
 Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
 
-REQ-ID: 12
-Description: Present available appointments over a given period of time in the future, for a specific therapist.
-Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
-
 REQ-ID: 13
 Description: issue patient with an appointments card 
 Type: Functional requirement
