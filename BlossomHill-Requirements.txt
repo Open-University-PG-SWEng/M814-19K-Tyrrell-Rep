@@ -127,4 +127,11 @@ Description: Delete existing appointment
 Type: Functional requirement
 Rationale: The patient realises that the appointment conflicts with their schedule but does not know yet their availability
 Originator: Carol
-Comments: [Regan Greeff] Added first potential functional requirement in repsonse to Q4
+Comments: [Regan Greeff] Added first potential functional requirement in response to Q4
+
+REQ-ID: 20
+Description: Export statistics on patient and therapy usage
+Type: Functional requirement
+Rationale: The clinic owners want to report on usage stats on patient appointments kept and treatments provided
+Originator: Carol
+Comments: [Regan Greeff] Added second potential functional requirement in response to Q4
