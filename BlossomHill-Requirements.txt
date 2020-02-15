@@ -8,8 +8,8 @@ Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 REQ-ID: 1
 Description: Create appointment 
 Type: Functional
-Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.
-Originator: Carol
+Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.  It is required that doctors who refer patients can also create appointments in the system along with receptionists and the office manager at the Blossom Hill Clinic
+Originator: Carol and Brian, a podiatrist who works at both clinics.
 
 REQ-ID: 2
 Description: Amend existing appointment
@@ -18,17 +18,6 @@ Rationale:To rearrange an existing appointment as the time and/or date are no lo
 Originator: Carol
 
 Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
-
-REQ-ID: 3
-Description: A doctor must have a means to book an appointment on the system independently from patients.
-Type: Functional
-Rationale: A patient may fail to record or simply forget a follow-up appointment or prescription refill. 
-Permitting doctors to make a note of these within the system will allow for reminders – 
-electronic, written or verbal – to be sent to the patient.
-Originator: Brian, a podiatrist who works at both clinics.
-
-Comments: [jg8946-John Gribble] Adding two potential functional requirements that occurred to me while 
-reviewing my answer to 3c. The first of these was merged with another requirement.
 
 REQ-ID: 4
 Description: The product shall determine whether a patient must pay for their own treatment or whether they have a health insurance provider who will pay for it.
@@ -73,13 +62,6 @@ Rationale: To eliminate the paper-based tracking of appointments. For therapists
 Originator: Carol
 Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
 
-REQ-ID: 12
-Description: Present available appointments over a given period of time in the future, for a specific therapist.
-Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
-
 REQ-ID: 13
 Description: issue patient with an appointments card 
 Type: Functional requirement
@@ -94,13 +76,6 @@ Rationale: That would save time finding the records before treatment can start.
 Originator: Carol
 Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added second potential functional requirement in repsonse to Q4.
 
-REQ-ID: 15
-Description: Bookable dates and times can be entered into the system
-Type: Functional requirement
-Rationale: For easier scheduling, available timeslots can be predefined with defaults and exceptions for bookable resources.
-Originator: Carol
-Comments: [RobertB-Robert Blaas] Added requirement.
-
 REQ-ID: 16
 Description: Keep track of communication
 Type: Functional requirement
@@ -114,13 +89,6 @@ Type: Functional Requirement
 Rationale: To replace the hand written notes that the therapist gives to the patient at the end of a session.
 Originator: Carol
 Comments: [Edgar Odinah] Addition of requirement #17.
-
-REQ-ID: 18
-Description: Pass patient details to the treatment records system
-Type: Functional Requirement
-Rationale: To save time finding a patient's records before treatment can start.
-Originator: Carol
-Comments: [Edgar Odinah] Addition of requirement #18.
 
 REQ-ID: 19
 Description: Delete existing appointment
