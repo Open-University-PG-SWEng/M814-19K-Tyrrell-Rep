@@ -30,13 +30,6 @@ Originator: Brian, a podiatrist who works at both clinics.
 Comments: [jg8946-John Gribble] Adding two potential functional requirements that occurred to me while 
 reviewing my answer to 3c. The first of these was merged with another requirement.
 
-REQ-ID: 4
-Description: The product shall determine whether a patient must pay for their own treatment or whether they have a health insurance provider who will pay for it.
-Type: Functional business requirement
-Rationale: To be able to determine whether the clinic must ask the patient to make the payment themselves immediately after their appointment to cover the cost, or whether an invoice must instead be generated to be sent to the patient’s health insurance provider.
-Originator: Carol (office manager).
-Comments: [samjb1-Sam Braithwaite] First requirement in response to question 4b
-
 REQ-ID: 7
 Description: The product shall show the available times and dates for appointments at around the length of time in the future that the therapist has specified the patient’s next appointment should be.
 Type: Functional business requirement
@@ -136,14 +129,6 @@ Rationale: The clinic owners want to report on usage stats on patient appointmen
 Originator: Carol
 Comments: [Regan Greeff] Added second potential functional requirement in response to Q4
 
-REQ-ID:21
-Description:System shall print the names of patients required for a session
-Type:Functional
-Rationale:The customer wants to know the days appointments and expected patients
-Fit Criterion:The printed patients for the session will match the logs of patient appointments for each therapist
-Originator:Business Manager
-Comments: [Tom Baker] Added additional requirement Q4
-
 REQ-ID:22
 Description:Payee Information shall be stored on the patients record
 Type:Functional
@@ -151,4 +136,3 @@ Rationale:The information of who is paying for the treatment needs to be stored
 Fit Criterion:The data stored for each patient will match the records for each insurer and records for self-paying staff
 Originator:Business Manager
 Comments: [Tom Baker] Additiona requirement Q4
-
