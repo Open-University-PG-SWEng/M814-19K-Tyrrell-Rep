@@ -8,53 +8,56 @@ Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 REQ-ID: 1
 Description: Create appointment 
 Type: Functional
-Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.
+Rationale: To ensure that appointments are stored and can be monitored and managed more effectively.
 Originator: Carol
 
 REQ-ID: 2
 Description: Amend existing appointment
 Type: Functional
-Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
+Rationale: To rearrange an existing appointment as the time and/or date are no longer suitable for the 
+        patient or therapist to avoid any missed appointments.
 Originator: Carol
-
 Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
 
 REQ-ID: 3
-Description: A doctor must have a means to book an appointment on the system independently from patients.
-Type: Functional
-Rationale: A patient may fail to record or simply forget a follow-up appointment or prescription refill. 
-Permitting doctors to make a note of these within the system will allow for reminders – 
-electronic, written or verbal – to be sent to the patient.
-Originator: Brian, a podiatrist who works at both clinics.
-
 Comments: [jg8946-John Gribble] Adding two potential functional requirements that occurred to me while 
-reviewing my answer to 3c. The first of these was merged with another requirement.
+        reviewing my answer to 3c. The first of these was merged with another requirement.
+          [Robert Blaas] Removed due to duplicate of ID 1
 
 REQ-ID: 4
-Description: The product shall determine whether a patient must pay for their own treatment or whether they have a health insurance provider who will pay for it.
+Description: The product shall determine whether a patient must pay for their own treatment or whether 
+        they have a health insurance provider who will pay for it.
 Type: Functional business requirement
-Rationale: To be able to determine whether the clinic must ask the patient to make the payment themselves immediately after their appointment to cover the cost, or whether an invoice must instead be generated to be sent to the patient’s health insurance provider.
+Rationale: To be able to determine whether the clinic must ask the patient to make the payment themselves 
+        immediately after their appointment to cover the cost, or whether an invoice must instead be 
+        generated to be sent to the patient’s health insurance provider.
 Originator: Carol (office manager).
 Comments: [samjb1-Sam Braithwaite] First requirement in response to question 4b
 
 REQ-ID: 7
-Description: The product shall show the available times and dates for appointments at around the length of time in the future that the therapist has specified the patient’s next appointment should be.
+Description: The product shall show the available times and dates for appointments of all or specific 
+        therapists at around the length of time in the future that the therapist has specified the 
+        patient’s next appointment should be.
 Type: Functional business requirement
-Rationale: To be able to find available times and dates for the patient’s next appointment and confirm with the patient at which of these times and dates they would their next appointment to be scheduled.
+Rationale: To be able to find available times and dates for the patient’s next appointment and 
+        confirm with the patient at which of these times and dates they would their next appointment to be scheduled.
 Originator: Lily (a receptionist on duty).
 Comments: [samjb1-Sam Braithwaite] Second requirement in response to question 4b
+          [Robert Blaas] Added additional requirement to be filterable on therapist from merged-in ID 12
 
 REQ-ID: 8
 Description: Interface to accounts system to generate invoice for patient treatment
 Type: functional requirement
-Rationale: invoices are generated from the existing accounts system and passing information between systems would reduce time taken to input information and reduce the likelihood of potential errors.
+Rationale: invoices are generated from the existing accounts system and passing information between systems would 
+        reduce time taken to input information and reduce the likelihood of potential errors.
 Originator: Neil
 Comments: [dash78-Duane Howden] First potential requirement in response to Q4
 
 REQ-ID: 9
 Description: generate appointment confirmation letter
 Type: functional requirement
-Rationale: if an appointment is not booked in person then a confirmation letter is sent to the patient to confirm the appointment booking. 
+Rationale: if an appointment is not booked in person then a confirmation letter is sent to 
+        the patient to confirm the appointment booking. 
 Originator: Carol
 Comments: [dash78-Duane Howden] Second potential requirement in response to Q4
 
@@ -69,21 +72,20 @@ Comments: [jg8946-John Gribble] Merged my previous requirement
 REQ-ID: 11
 Description: Keep track of all currently booked appointments.
 Type: Functional requirement
-Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have appointments and for receptionists to see availability etc.
+Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have 
+        appointments and for receptionists to see availability etc.
 Originator: Carol
 Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
 
 REQ-ID: 12
-Description: Present available appointments over a given period of time in the future, for a specific therapist.
-Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
+Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4. 
+          [Robert Blaas] Merged into ID 7
 
 REQ-ID: 13
 Description: issue patient with an appointments card 
 Type: Functional requirement
-Rationale: Usually, people make the next appointment after they’ve had an initial assessment while they’re still in the clinic, and the clinic issue them with an appointments card there and then.
+Rationale: Usually, people make the next appointment after they’ve had an initial assessment while they’re 
+        still in the clinic, and the clinic issue them with an appointments card there and then.
 Originator: Carol
 Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added first potential functional requirement in repsonse to Q4.
 
@@ -97,16 +99,18 @@ Comments: [ChakaKasamatsu-Yusuke Kasamatsu] Added second potential functional re
 REQ-ID: 15
 Description: Bookable dates and times can be entered into the system
 Type: Functional requirement
-Rationale: For easier scheduling, available timeslots can be predefined with defaults and exceptions for bookable resources.
+Rationale: For easier scheduling, available timeslots can be predefined with 
+        defaults and exceptions for bookable resources.
 Originator: Carol
-Comments: [RobertB-Robert Blaas] Added requirement.
+Comments: [Robert Blaas] Added requirement.
 
 REQ-ID: 16
 Description: Keep track of communication
 Type: Functional requirement
-Rationale: Patients are communicated with ahead of appointments for confirmation. The style of communication should be trackable and if patients were reached or a message left.
+Rationale: Patients are communicated with ahead of appointments for confirmation. 
+        The style of communication should be trackable and if patients were reached or a message left.
 Originator: Carol
-Comments: [RobertB-Robert Blaas] Added requirement.
+Comments: [Robert Blaas] Added requirement.
 
 REQ-ID: 17
 Description: Allow a therapist to add a note into the system
