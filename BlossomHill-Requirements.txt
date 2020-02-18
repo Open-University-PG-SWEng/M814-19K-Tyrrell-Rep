@@ -140,18 +140,14 @@ Rationale: The clinic owners want to report on usage stats on patient appointmen
 Originator: Carol
 Comments: [Regan Greeff] Added second potential functional requirement in response to Q4
 
-REQ-ID:21
-Description:System shall print the names of patients required for a session
-Type:Functional
-Rationale:The customer wants to know the days appointments and expected patients
-Fit Criterion:The printed patients for the session will match the logs of patient appointments for each therapist
-Originator:Business Manager
+REQ-ID: 21
 Comments: [Tom Baker] Added additional requirement Q4
+          [Robert Blaas] Removed adue to duplicate of ID 11
 
-REQ-ID:22
-Description:Payee Information shall be stored on the patients record
-Type:Functional
-Rationale:The information of who is paying for the treatment needs to be stored
-Fit Criterion:The data stored for each patient will match the records for each insurer and records for self-paying staff
-Originator:Business Manager
+REQ-ID: 22
+Description: Payee Information shall be stored on the patients record
+Type: Functional
+Rationale: The information of who is paying for the treatment needs to be stored
+Fit Criterion: The data stored for each patient will match the records for each insurer and records for self-paying staff
+Originator: Business Manager
 Comments: [Tom Baker] Additiona requirement Q4
