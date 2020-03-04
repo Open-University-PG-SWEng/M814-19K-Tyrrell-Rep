@@ -19,17 +19,6 @@ Originator: Carol
 
 Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
 
-REQ-ID: 3
-Description: A doctor must have a means to book an appointment on the system independently from patients.
-Type: Functional
-Rationale: A patient may fail to record or simply forget a follow-up appointment or prescription refill. 
-Permitting doctors to make a note of these within the system will allow for reminders – 
-electronic, written or verbal – to be sent to the patient.
-Originator: Brian, a podiatrist who works at both clinics.
-
-Comments: [jg8946-John Gribble] Adding two potential functional requirements that occurred to me while 
-reviewing my answer to 3c. The first of these was merged with another requirement.
-
 REQ-ID: 4
 Description: The product shall determine whether a patient must pay for their own treatment or whether they have a health insurance provider who will pay for it.
 Type: Functional business requirement
@@ -65,20 +54,6 @@ Rationale: To ensure that Patients who pay for their own treatment can do so at 
 Originator: Neil
 Comments: [jg8946-John Gribble] Merged my previous requirement 
 (The system shall allow a physical monetary transaction to be recorded) to avoid redundancy.
-
-REQ-ID: 11
-Description: Keep track of all currently booked appointments.
-Type: Functional requirement
-Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have appointments and for receptionists to see availability etc.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
-
-REQ-ID: 12
-Description: Present available appointments over a given period of time in the future, for a specific therapist.
-Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
 
 REQ-ID: 13
 Description: issue patient with an appointments card 
