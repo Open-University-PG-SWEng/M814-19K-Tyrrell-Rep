@@ -1,0 +1,7 @@
+REQ-ID: 1
+Description: The choice of payment methods provided by the system must be unambigous.
+Type: Usability
+Rationale: Staff and patients must clearly agree to the means of financial transaction used.
+Fit Criterion: Over 9 in 10 stakeholder must find payment choices clear and simple.
+Originator: Lily
+Comments: It is important for a patient who pays for their treatment to be aware of the options available.
