@@ -1,0 +1,7 @@
+REQ-ID:2
+Description: The system should work like the curent system
+Type: Non-Functional
+Rationale: Usability and humanity requirement that the look, feel and process of the system reflects the current process such that users find it intuitive to use
+Fit Criterion: 9 out of 10 users use the system at least as fast as the original process and 9 out of 10 workflows are without mistakes
+Originator:Business manager
+Comments: [Tom Baker] #2
