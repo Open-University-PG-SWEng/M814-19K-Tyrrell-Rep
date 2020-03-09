@@ -1,0 +1,7 @@
+REQ-ID: 3
+Description: The appointment confirmation letter should be easy to read
+Type: 11
+Rationale: Poorly formatted letters with small font sizes and illegible fonts will not be clearly understood by all patients (such as those with poor eyesight/visual impairment) 
+Fit Criterion: The Receptionists should be able to proof-read the letter quickly, picking out the necessary details easily. Patients should be able to read the comfortably with a clear type font and size.
+Originator: Carol, Office Manager
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
