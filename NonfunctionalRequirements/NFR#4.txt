@@ -1,0 +1,7 @@
+REQ-ID: 4
+Description: Only authorised users should be able to create appointments.
+Type:Non-Functional
+Rationale: To avoid too many users being able to create appointments and cause confusion.  
+Fit Criterion: 0 appointments will be created by an unauthorised user.
+Originator: Carol, the Office Manager
+Comments: [FM] Fran Moore - adding requirement 4.
