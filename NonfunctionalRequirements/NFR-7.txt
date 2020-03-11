@@ -1,0 +1,7 @@
+REQ-ID:7
+Description: The product shall transfer all required information to the accounts system in order to produce an invoice. 
+Type: Non-Functional, type 11, Usability
+Rationale: If users have to enter data into two systems then confidence in the proposed new system will be negatively affected, potentially leading to users circumventing the feature.
+Fit Criterion: 99.9% of invoices generated as a result of the transfer of data from the booking system to the accounting system shall include all required information and produce an invoice that is correct upon first issue.
+Originator: Neil
+Comments: [dash78] adding requirement #7
