@@ -11,12 +11,6 @@ Type: Functional
 Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.
 Originator: Carol
 
-REQ-ID: 2
-Description: Amend existing appointment
-Type: Functional
-Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
-Originator: Carol
-
 Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
 
 REQ-ID: 4
@@ -29,7 +23,7 @@ Comments: [samjb1-Sam Braithwaite] First requirement in response to question 4b
 REQ-ID: 7
 Description: The product shall show the available times and dates for appointments at around the length of time in the future that the therapist has specified the patient’s next appointment should be.
 Type: Functional business requirement
-Rationale: To be able to find available times and dates for the patient’s next appointment and confirm with the patient at which of these times and dates they would their next appointment to be scheduled.
+Rationale: To be able to find available times and dates for the patient’s next appointment and confirm with the patient at which of these times and dates they would like their next appointment to be scheduled and to allow therapists to view future scheduled appointments.
 Originator: Lily (a receptionist on duty).
 Comments: [samjb1-Sam Braithwaite] Second requirement in response to question 4b
 
@@ -39,13 +33,6 @@ Type: functional requirement
 Rationale: invoices are generated from the existing accounts system and passing information between systems would reduce time taken to input information and reduce the likelihood of potential errors.
 Originator: Neil
 Comments: [dash78-Duane Howden] First potential requirement in response to Q4
-
-REQ-ID: 9
-Description: generate appointment confirmation letter
-Type: functional requirement
-Rationale: if an appointment is not booked in person then a confirmation letter is sent to the patient to confirm the appointment booking. 
-Originator: Carol
-Comments: [dash78-Duane Howden] Second potential requirement in response to Q4
 
 REQ-ID: 10
 Description: Accept multiple methods of payment including cash, credit/debit cards, online banking etc.
@@ -96,13 +83,6 @@ Type: Functional Requirement
 Rationale: To save time finding a patient's records before treatment can start.
 Originator: Carol
 Comments: [Edgar Odinah] Addition of requirement #18.
-
-REQ-ID: 19
-Description: Delete existing appointment
-Type: Functional requirement
-Rationale: The patient realises that the appointment conflicts with their schedule but does not know yet their availability
-Originator: Carol
-Comments: [Regan Greeff] Added first potential functional requirement in response to Q4
 
 REQ-ID: 20
 Description: Export statistics on patient and therapy usage
