@@ -5,3 +5,4 @@ Rationale: Poorly formatted letters with small font sizes and illegible fonts wi
 Fit Criterion: The Receptionists should be able to proof-read the letter quickly, picking out the necessary details easily. Patients should be able to read the comfortably with a clear type font and size.
 Originator: Carol, Office Manager
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[RB] Could we devise a quantifiable test for this? eg: Show the new confirmation letter layout to 20 patients, at least 95% say they have no problem reading and understanding the information on the it.

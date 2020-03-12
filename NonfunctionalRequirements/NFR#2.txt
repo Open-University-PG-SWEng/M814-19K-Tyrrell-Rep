@@ -6,3 +6,4 @@ Fit Criterion: 9 out of 10 users use the system at least as fast as the original
 Originator:Business manager
 Comments: [Tom Baker] #2
 [SB] Should the fit criterion specifically say "therapists" instead of "users" as the functional requirement this relates to is "Allow a therapist to add a note into the system"? Additionally, what is the "current system" in this context? The functional requirement this relates to has the rationale "To replace the hand written notes that the therapist gives to the patient at the end of a session" so I would think the "current system" is the hand-written notes.
+[RB] Good requirement to add human touch. Agreeing with SB above - we should find a way to define which workflows/processes are included in the fit criterion and what defines a "mistake".
