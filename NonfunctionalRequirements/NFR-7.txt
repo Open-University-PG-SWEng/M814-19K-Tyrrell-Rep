@@ -5,3 +5,4 @@ Rationale: If users have to enter data into two systems then confidence in the p
 Fit Criterion: 99.9% of invoices generated as a result of the transfer of data from the booking system to the accounting system shall include all required information and produce an invoice that is correct upon first issue.
 Originator: Neil
 Comments: [dash78] adding requirement #7
+[TB] Should note that correct needs to ccompare against the input data, and what required information is required.

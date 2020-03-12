@@ -6,3 +6,4 @@ Fit Criterion: 0 appointments will be created by an unauthorised user.
 Originator: Carol, the Office Manager
 Comments: [FM] Fran Moore - adding requirement 4.
 [SB] I agree with this except I think the type should specifically be a security requirement. Should the fit criterion state a time period for no appointments to be created by an authorised user? (I think this is needed to make the requirement testable.)
+[TB] Yes this is a security requirement and should be functional in terms of groups/categories of users that would have these privileges, ie. therapist group

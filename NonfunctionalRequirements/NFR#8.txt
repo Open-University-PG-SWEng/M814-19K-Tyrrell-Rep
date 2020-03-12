@@ -6,3 +6,4 @@ Rationale: The software will store sensitive information that can include a pati
 Fit Criterion: Patient data is gathered stored in accordance to GDPR and the NHS Data Protection Act. 
 Originator: Neil
 Comments: [RB] Added the requirement. Assuming Neil as originator as he will be responsible as business owner.
+[TB] Yes, who will make the decision that it does?

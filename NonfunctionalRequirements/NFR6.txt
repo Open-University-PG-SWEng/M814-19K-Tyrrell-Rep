@@ -8,3 +8,4 @@ Comments: [SB] Added non-functional requirement 6.
 [JD] The Fit Criterion specifies one aspect of a broad requirement - booking repeat appointments. It does not quantify how the Receptionists find using the system to be more efficient in 
 areas such as rearranging appointments over the phone, adding notes to patients records or running reports. Would there be a benefit in having more criteria to how one would measure an
 increase of efficiency for each task carried out on the system?
+[TB] Yes having an efficiency criteria would be useful, a standard measure of the time to book in paper versus time to book using the computer system for instance
