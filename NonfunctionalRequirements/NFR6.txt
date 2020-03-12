@@ -5,3 +5,6 @@ Rationale: The receptionists have complained that the existing paper-based appoi
 Fit Criterion: 90% of patients shall have their next appointment scheduled at a time and date they are happy with within two minutes of approaching the reception desk after coming out of their appointment. (Assumptions: The stakeholders recognise that certain circumstances, such as a therapist being busy or unavailable, or a difficult patient, will render it impossible to always satisfy all patients, with some leaving without making another appointment. However, in the majority of cases, for which the stakeholders have agreed a value of 90% is acceptable, scheduling of the next appointment should be reasonably quick. Two minutes was chosen as a reasonable upper bound to prevent a queue forming at reception.)
 Originator: Receptionists (non-specific as stated by Neil).
 Comments: [SB] Added non-functional requirement 6.
+[JD] The Fit Criterion specifies one aspect of a broad requirement - booking repeat appointments. It does not quantify how the Receptionists find using the system to be more efficient in 
+areas such as rearranging appointments over the phone, adding notes to patients records or running reports. Would there be a benefit in having more criteria to how one would measure an
+increase of efficiency for each task carried out on the system?
