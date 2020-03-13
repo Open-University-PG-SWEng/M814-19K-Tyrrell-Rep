@@ -7,3 +7,4 @@ Originator: Carol, Office Manager
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RB] Could we devise a quantifiable test for this? eg: Show the new confirmation letter layout to 20 patients, at least 95% say they have no problem reading and understanding the information on the it.
 [TB] Again peopel find different fonts and sizes etc easier to read than others. Is this more a case of defining a functional requirement on the letter template?
+[FM] What would be the "neccessary details"?  Would these be appointment date/time, therapsit name, patient name?

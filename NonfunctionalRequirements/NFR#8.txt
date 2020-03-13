@@ -7,3 +7,4 @@ Fit Criterion: Patient data is gathered stored in accordance to GDPR and the NHS
 Originator: Neil
 Comments: [RB] Added the requirement. Assuming Neil as originator as he will be responsible as business owner.
 [TB] Yes, who will make the decision that it does?
+[FM] Should there be a time limit specified to make the NFR measurable? For example - the data about each patient should be retained for no more than 5 years from the final appointment for each patient
