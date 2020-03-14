@@ -6,3 +6,4 @@ Fit Criterion: 99.9% of invoices generated as a result of the transfer of data f
 Originator: Neil
 Comments: [dash78] adding requirement #7
 [TB] Should note that correct needs to ccompare against the input data, and what required information is required.
+[FM] How is it determined that the invoice is correct?
