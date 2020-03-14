@@ -5,3 +5,4 @@ Rationale:This system will be mission critical for the operation of the clinic. 
 Fit Criterion:Screen transition of all pages should be within 2 second.
 Originator:Carol, Office Manager
 Comments: [Yusuke Kasamatsu]
+[RG] Which screen transitions? Checking patient data could be quick if it is a local database but getting data from an outside source, example the health insurance company could take longer
