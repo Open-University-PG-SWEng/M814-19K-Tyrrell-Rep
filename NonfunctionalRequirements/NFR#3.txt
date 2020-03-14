@@ -1,11 +1,14 @@
 REQ-ID: 3
 Description: The appointment confirmation letter should be easy to read
 Type: 11
-Rationale: Poorly formatted letters with small font sizes and illegible fonts will not be clearly understood by all patients (such as those with poor eyesight/visual impairment) 
-Fit Criterion: The Receptionists should be able to proof-read the letter quickly, picking out the necessary details easily. Patients should be able to read the comfortably with a clear type font and size.
+Rationale: Poorly formatted letters with small font sizes and illegible fonts will not be clearly understood by all patients (such as those with poor eyesight/visual impairment) and Receptionists will take 
+longer to proof-read them to ensure the details are correct.
+Fit Criterion: The Receptionists should be able to proof-read the letter quickly, picking out the date/time and patients name and address easily. 95% of patients should be able to read them comfortably with a clear 
+type font and size (Times New Roman, 14 pt.)
 Originator: Carol, Office Manager
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RB] Could we devise a quantifiable test for this? eg: Show the new confirmation letter layout to 20 patients, at least 95% say they have no problem reading and understanding the information on the it.
 [TB] Again peopel find different fonts and sizes etc easier to read than others. Is this more a case of defining a functional requirement on the letter template?
 [FM] What would be the "neccessary details"?  Would these be appointment date/time, therapsit name, patient name?
 [JG] I feel this is a good requirement, however could a specific font be specified?
+[JD] Changed the Rationale and Fit Criterion after feedback.
