@@ -1,4 +1,4 @@
-REQ-ID: 2
+REQ-ID: 10
 Description: Amend existing appointment
 Type: 9
 Rationale: To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments
