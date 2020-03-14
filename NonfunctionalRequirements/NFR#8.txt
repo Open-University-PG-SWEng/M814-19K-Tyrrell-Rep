@@ -1,0 +1,10 @@
+REQ-ID:8
+Description: Patient data is stored securely and in compliance with law
+Type: Legal requirement (Type 17)
+Rationale: The software will store sensitive information that can include a patient's health and payment information.
+    Data gathered needs to be vetted for legal compliance.
+Fit Criterion: Patient data is gathered stored in accordance to GDPR and the NHS Data Protection Act. 
+Originator: Neil
+Comments: [RB] Added the requirement. Assuming Neil as originator as he will be responsible as business owner.
+[TB] Yes, who will make the decision that it does?
+[FM] Should there be a time limit specified to make the NFR measurable? For example - the data about each patient should be retained for no more than 5 years from the final appointment for each patient

@@ -1,0 +1,10 @@
+REQ-ID: 1
+Description: The choice of payment methods provided to clinic employees by the system must be unambiguous.
+Type: Usability
+Rationale: All stakeholders must clearly agree to the means of financial transaction used.
+Fit Criterion: At minimum 9 in 10 stakeholders must find the method of choosing a payment option clear and simple.
+Originator: Lily
+Comments: It is important for a patient who pays for their treatment to be aware of the options available.
+[SB] The fit criterion focuses on whether the stakeholders find the payment choices clear. Shouldn't it focus on the users of the system instead (receptionists and patients) and shouldn't all stakeholders agree to the proposed choice of payment methods?
+[JD] The Fit Criterian states "over 9 in 10". If that were the case, then it would be 10 out of 10. Surely it should say, "at least 9 out of 10"?
+[TB] What does clear and simple mean in this requirement, is it just a tick box of yes/no

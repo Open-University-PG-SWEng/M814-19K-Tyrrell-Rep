@@ -1,0 +1,11 @@
+REQ-ID:2
+Description: The system should work like the curent system
+Type: Non-Functional
+Rationale: Usability and humanity requirement that the look, feel and process of the system reflects the current process such that users find it intuitive to use
+Fit Criterion: 9 out of 10 users use the system at least as fast as the original process and 9 out of 10 workflows are without mistakes
+Originator:Business manager
+Comments: [Tom Baker] #2
+[SB] Should the fit criterion specifically say "therapists" instead of "users" as the functional requirement this relates to is "Allow a therapist to add a note into the system"? Additionally, what is the "current system" in this context? The functional requirement this relates to has the rationale "To replace the hand written notes that the therapist gives to the patient at the end of a session" so I would think the "current system" is the hand-written notes.
+[RB] Good requirement to add human touch. Agreeing with SB above - we should find a way to define which workflows/processes are included in the fit criterion and what defines a "mistake".
+[JG] While continuity is important, the measurements here are perhaps somewhat vague. 
+Are the processes directly comparable? An electronic system will probably be faster than a paper based system by default.

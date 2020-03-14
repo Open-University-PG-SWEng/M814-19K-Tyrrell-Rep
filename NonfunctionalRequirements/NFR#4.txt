@@ -1,0 +1,10 @@
+REQ-ID: 4
+Description: Only authorised users should be able to create appointments.
+Type:Non-Functional
+Rationale: To avoid too many users being able to create appointments and cause confusion.  
+Fit Criterion: 0 appointments will be created by an unauthorised user.
+Originator: Carol, the Office Manager
+Comments: [FM] Fran Moore - adding requirement 4.
+[SB] I agree with this except I think the type should specifically be a security requirement. Should the fit criterion state a time period for no appointments to be created by an authorised user? (I think this is needed to make the requirement testable.)
+[TB] Yes this is a security requirement and should be functional in terms of groups/categories of users that would have these privileges, ie. therapist group
+[JG] Security and data integrity is an example of how NFRs can add functionality to a project for non-functional reasons. Who would have access in this scenario?
