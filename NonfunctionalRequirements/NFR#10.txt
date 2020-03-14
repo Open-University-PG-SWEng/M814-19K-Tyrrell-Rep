@@ -1,7 +1,7 @@
 REQ-ID: 10
-Description: Amend existing appointment
-Type: 9
-Rationale: To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments
-Fit Criterion: The user should be able to amend an existing booking and save the changes
+Description: Ensure that the patient details are up to date
+Type: 15
+Rationale: To ensure that the details of the patient on file are still valid, from a GDPR perspective
+Fit Criterion: The patient confirms the details or provides updated information
 Originator: Carol
-Comments: [RG] It is important for the user to be able to amend an existing appointment if either the patient is unable to attend or the therapist is unavailable
+Comments: [RG] It is important to have the correct patient details on file
