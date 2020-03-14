@@ -42,6 +42,16 @@ Originator: Neil
 Comments: [jg8946-John Gribble] Merged my previous requirement 
 (The system shall allow a physical monetary transaction to be recorded) to avoid redundancy.
 
+<<<<<<< HEAD
+REQ-ID: 11
+Description: Keep track of all currently booked appointments.
+Type: Functional requirement
+Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have appointments and for receptionists to see availability etc.
+Originator: Carol
+Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
+
+=======
+>>>>>>> master
 REQ-ID: 13
 Description: issue patient with an appointments card 
 Type: Functional requirement
