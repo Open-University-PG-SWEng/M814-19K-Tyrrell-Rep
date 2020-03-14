@@ -1,0 +1,7 @@
+REQ-ID: 2
+Description: Amend existing appointment
+Type: 9
+Rationale: To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments
+Fit Criterion: The user should be able to amend an existing booking and save the changes
+Originator: Carol
+Comments: [RG] It is important for the user to be able to amend an existing appointment if either the patient is unable to attend or the therapist is unavailable
