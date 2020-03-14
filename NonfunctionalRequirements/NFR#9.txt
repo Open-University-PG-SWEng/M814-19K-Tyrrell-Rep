@@ -1,0 +1,7 @@
+REQ-ID:9
+Description:The screen transitions of system should not frustrate the users.
+Type:Performance
+Rationale:This system will be mission critical for the operation of the clinic. If the response is late, it makes receptionist frustrated and patient wait. I think this system doesn't treat too much data in 1 transaction. If the screen transitions of system takes 2 seconds or more, there will be a problem with the system design.
+Fit Criterion:Screen transition of all pages should be within 2 second.
+Originator:Carol, Office Manager
+Comments: [Yusuke Kasamatsu]
