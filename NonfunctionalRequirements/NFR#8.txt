@@ -8,3 +8,4 @@ Originator: Neil
 Comments: [RB] Added the requirement. Assuming Neil as originator as he will be responsible as business owner.
 [TB] Yes, who will make the decision that it does?
 [FM] Should there be a time limit specified to make the NFR measurable? For example - the data about each patient should be retained for no more than 5 years from the final appointment for each patient
+[RG] Does Blossom Hill already have GDPR agreements in place with the health insurance companies when they both process patient information and is this in accordance with the Information Commission's office guidelines on processor and controller?
