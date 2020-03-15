@@ -9,3 +9,11 @@ Comments: [Tom Baker] #2
 [RB] Good requirement to add human touch. Agreeing with SB above - we should find a way to define which workflows/processes are included in the fit criterion and what defines a "mistake".
 [JG] While continuity is important, the measurements here are perhaps somewhat vague. 
 Are the processes directly comparable? An electronic system will probably be faster than a paper based system by default.
+
+REQ-ID:2
+Description: The system have an intuitive feel that the work flow processes match the curent system and intuitive to navigate
+Type: Non-Functional
+Rationale: Usability and humanity requirement that the look, feel and process of the system reflects the current process such that users find it intuitive to use
+Fit Criterion: 9 out of 10 therapists use the system at least as fast as the original process and 9 out of 10 workflows are without mistakes, i.e. the intent (appointment booking, to adding notes) should match the outcome, including paper records.
+Originator:Business manager
+Comments: [Tom Baker] #2 - The process is more than hand written notes, these include scheduling the next appointment, finding the patient notes and files etc. Although electronic may be faster, if difficult to navigate or non-intuitive, it may take longer just to find/do what you want it to do. 
