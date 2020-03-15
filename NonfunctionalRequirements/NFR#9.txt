@@ -6,3 +6,4 @@ Fit Criterion:Screen transition of all pages should be within 2 second.
 Originator:Carol, Office Manager
 Comments: [Yusuke Kasamatsu]
 [RG] Which screen transitions? Checking patient data could be quick if it is a local database but getting data from an outside source, example the health insurance company could take longer
+[LW] Some screens may rely on external dependencies and so 2 seconds on every occasion may be optimistic. It might be a good idea to include a higher threshold, but specify a percentage that should be complete in 2 seconds.
