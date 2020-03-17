@@ -5,3 +5,4 @@ Rationale: To ensure that the details of the patient on file are still valid, fr
 Fit Criterion: The patient confirms the details or provides updated information
 Originator: Carol
 Comments: [RG] It is important to have the correct patient details on file
+[Yusuke Kasamatsu]What kinds of detail are included in patient details? Without that, we couldn't judge whether the patient confirms the details or not.
