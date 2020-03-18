@@ -3,9 +3,10 @@ Description: Patient data is stored securely and in compliance with law
 Type: Legal requirement (Type 17)
 Rationale: The software will store sensitive information that can include a patient's health and payment information.
     Data gathered needs to be vetted for legal compliance.
-Fit Criterion: Patient data is gathered stored in accordance to GDPR and the NHS Data Protection Act. 
+Fit Criterion: Patient data is gathered stored in accordance to GDPR and the NHS Data Protection Act, and signed off by the designated authority.
 Originator: Neil
 Comments: [RB] Added the requirement. Assuming Neil as originator as he will be responsible as business owner.
 [TB] Yes, who will make the decision that it does?
 [FM] Should there be a time limit specified to make the NFR measurable? For example - the data about each patient should be retained for no more than 5 years from the final appointment for each patient
 [RG] Does Blossom Hill already have GDPR agreements in place with the health insurance companies when they both process patient information and is this in accordance with the Information Commission's office guidelines on processor and controller?
+[RB] Amended the fit criterion. Good suggestions and questions above. Amended a sign-off owner but without being specific as this would be a big assumption. Would be a designated person by Blossom Hill.
