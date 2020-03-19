@@ -1,5 +1,5 @@
 REQ-ID: 10
-Description: Ensure that the patient details are up to date
+Description: Ensure that the patient details are up to date, namely contact details, home address, e-mail and payment type, e.g. private or health insurance
 Type: 15
 Rationale: To ensure that the details of the patient on file are still valid, from a GDPR perspective
 Fit Criterion: The patient confirms the details or provides updated information
