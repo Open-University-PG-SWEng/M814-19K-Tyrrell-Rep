@@ -6,3 +6,4 @@ Fit Criterion: For each entry in the appointments system, full patient details m
 Originator: Carol, office manager.
 Comments: [EO] Edgar Odinah Adding requirement number 11
 [RG] Each appointment entry doesn't necessarily require all patient details, possibly only contact details, type of therapy or preferred therapist
+[Yusuke Kasamatsu]You shouldn't write a solution as fit criterion. Please check the Chapter 11 of MRP, page 276. As a non-functional requirement, you should focus on how users use system more than a specification of data. Please check "An Introduction to Non-functional Requirements in page 246.
