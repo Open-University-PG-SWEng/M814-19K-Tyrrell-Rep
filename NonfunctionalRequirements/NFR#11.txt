@@ -1,0 +1,7 @@
+REQ-ID: 11
+Description: The appointment system must interface with the Patients' Records System
+Type: NFR - Operational and Environmental Requirements
+Rationale: For the patient's data to be passed to the patients' Record System, the Appointment system must prepare the data in an acceptable interchange format. 
+Fit Criterion: For each entry in the appointments system, full patient details must be available in XML format for the Patients' record system to consume
+Originator: Carol, office manager.
+Comments: [EO] Edgar Odinah Adding requirement number 11
