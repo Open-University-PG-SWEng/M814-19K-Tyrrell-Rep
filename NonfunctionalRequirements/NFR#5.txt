@@ -2,7 +2,7 @@
 Description: The system should produce reports for a therapist about the upcoming session in a timely manner.
 Type: 12 Performance
 Rationale: To provide benefit the system must responds quickly to a request, the system will hinder therapists if they must wait to retrieve the required information.
-Fit Criterion: The system should never take more than 10 seconds to produce a report, with 90% of reports taking under 2 seconds to produce.
+Fit Criterion: The system should never take more than 10 seconds to produce a report, with 90% of reports taking under 5 seconds to produce. 
 Originator: Carol
 Comments: [lucasw21 – Lucas Walker] Added NFR #5.
 [JD] There is quite a large variance between the maximum time of 10 seconds and the average for 90% of cases of 2 seconds. Looking at an example from MRP (page 288), 
