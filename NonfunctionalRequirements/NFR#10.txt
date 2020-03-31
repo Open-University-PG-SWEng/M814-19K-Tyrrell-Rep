@@ -6,3 +6,4 @@ Fit Criterion: The patient confirms the details or provides updated information
 Originator: Carol
 Comments: [RG] It is important to have the correct patient details on file
 [Yusuke Kasamatsu]What kinds of detail are included in patient details? Without that, we couldn't judge whether the patient confirms the details or not.
+[EO] Since integrity is not optional, the Rationale should be amended to indicate that "For each entry, the patient MUST confirm that the details captured are up to date"

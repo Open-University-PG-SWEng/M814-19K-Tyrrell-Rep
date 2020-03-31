@@ -7,7 +7,7 @@ Originator:Carol, Office Manager
 Comments: [Yusuke Kasamatsu]
 [RG] Which screen transitions? Checking patient data could be quick if it is a local database but getting data from an outside source, example the health insurance company could take longer
 [LW] Some screens may rely on external dependencies and so 2 seconds on every occasion may be optimistic. It might be a good idea to include a higher threshold, but specify a percentage that should be complete in 2 seconds.
-
+[EO] The Rationale is wordy and confusing. It appears the intended rationale can be stated as: "This system will be mission critical for the operation of the clinic. If the screen response more than X seconds, it makes receptionist frustrated and patient wait"
 REQ-ID:9
 Description:The screen transitions of system should not frustrate the users except it is an external dependencies.
 Type:Performance
