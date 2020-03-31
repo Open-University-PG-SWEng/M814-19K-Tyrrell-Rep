@@ -5,3 +5,4 @@ Rationale: For the patient's data to be passed to the patients' Record System, t
 Fit Criterion: For each entry in the appointments system, full patient details must be available in XML format for the Patients' record system to consume
 Originator: Carol, office manager.
 Comments: [EO] Edgar Odinah Adding requirement number 11
+[RG] Each appointment entry doesn't necessarily require all patient details, possibly only contact details, type of therapy or preferred therapist
